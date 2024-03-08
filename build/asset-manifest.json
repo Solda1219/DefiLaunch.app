@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.35a4216d.css",
+    "main.js": "/static/js/main.3398df69.js",
+    "static/js/895.c641f9e5.chunk.js": "/static/js/895.c641f9e5.chunk.js",
+    "static/js/990.2ee94275.chunk.js": "/static/js/990.2ee94275.chunk.js",
+    "static/js/453.019de540.chunk.js": "/static/js/453.019de540.chunk.js",
+    "static/js/215.dc6932be.chunk.js": "/static/js/215.dc6932be.chunk.js",
+    "static/js/374.d6fbe584.chunk.js": "/static/js/374.d6fbe584.chunk.js",
+    "static/js/203.c911cc60.chunk.js": "/static/js/203.c911cc60.chunk.js",
+    "static/media/error.gif": "/static/media/error.181c5a6430bcb77324b1.gif",
+    "static/media/logo_main.png": "/static/media/logo_main.d5e03c0d18f20669b58e.png",
+    "static/media/dyno.png": "/static/media/dyno.c2a53bcf6e467db2de65.png",
+    "static/media/bnb-coin.png": "/static/media/bnb-coin.130234e820128327d92c.png",
+    "static/media/logo.png": "/static/media/logo.23c0b411cd8a36f808ad.png",
+    "static/media/metamask.svg": "/static/media/metamask.09e5f554ca7f2e9f93b4d3c237976b65.svg",
+    "static/media/trustwallet.svg": "/static/media/trustwallet.eb75d1056ce3357a03f309fe43082410.svg",
+    "static/media/walletconnect.svg": "/static/media/walletconnect.a4166a89e44f223aee034139e12106c8.svg",
+    "index.html": "/index.html",
+    "static/media/coinbase.svg": "/static/media/coinbase.ff1bcce15df8086e0c53075d5c100c57.svg",
+    "main.35a4216d.css.map": "/static/css/main.35a4216d.css.map",
+    "main.3398df69.js.map": "/static/js/main.3398df69.js.map",
+    "453.019de540.chunk.js.map": "/static/js/453.019de540.chunk.js.map",
+    "215.dc6932be.chunk.js.map": "/static/js/215.dc6932be.chunk.js.map",
+    "374.d6fbe584.chunk.js.map": "/static/js/374.d6fbe584.chunk.js.map",
+    "203.c911cc60.chunk.js.map": "/static/js/203.c911cc60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35a4216d.css",
+    "static/js/main.3398df69.js"
+  ]
+}

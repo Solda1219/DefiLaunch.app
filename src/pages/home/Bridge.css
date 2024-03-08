@@ -1,0 +1,13 @@
+/* Bridge.css */
+
+body, h1, h2, h3, p, div {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .bridge-container {
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+  }
+  

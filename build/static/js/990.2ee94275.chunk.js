@@ -1,0 +1,1 @@
+(self.webpackChunkBasememecoinslaunchpadloopingdev=self.webpackChunkBasememecoinslaunchpadloopingdev||[]).push([[990],{42634:()=>{},15340:()=>{},79838:()=>{}}]);

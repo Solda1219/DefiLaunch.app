@@ -1,0 +1,106 @@
+DEFI LAUNCH
+
+---------------------------------------------------------------------------------------------
+
+BASE MAINNET v2
+
+
+Deployer wallet address: 0x7308BD2ea2bc85B44e44c64B30c14C189F75531d (dexAi CB wallet)
+
+routername: "Pancakeswap"
+
+poolFactory: 0x722A86477C65a1989EC8D40429535EAb1Fef6079
+             https://basescan.org/address/0x722A86477C65a1989EC8D40429535EAb1Fef6079
+poolManager: 0x04974b1d189573113f1da25e0a4df9db2912edec
+             https://basescan.org/address/0x04974b1d189573113f1da25e0a4df9db2912edec 
+multicallAddress: https://basescan.org/address/0x519d319dfe534bc91977c754f740604a284e3bca
+             0x519d319dfe534bc91977c754f740604a284e3bca
+lockAddress: https://basescan.org/address/0x67931c2ee1c722b1f4b654920fbcd213f92fabf0
+             0x67931c2ee1c722b1f4b654920fbcd213f92fabf0
+
+feeReceiver: 0xCE035af21b4697101Aaf12C261bc6C79b0e38271 (defiDegens CB wallet)
+
+
+presalePool contract (_master on Write): 0x0a3CfD8d72fD16CD691bEa315A5dFB262F14B87E
+                     https://basescan.org/address/0x0a3CfD8d72fD16CD691bEa315A5dFB262F14B87E
+fairPool contract (_fairmaster on Write): 0xDae5e53DAe473A24fF5B5839617E7A97574C2222
+                     https://basescan.org/address/0xDae5e53DAe473A24fF5B5839617E7A97574C2222
+privatePool contract (_privatemaster on Write): 0x2F4a43356b16651afb6795aca3BbA01844b9228b
+                     https://basescan.org/address/0x2F4a43356b16651afb6795aca3BbA01844b9228b
+
+
+New DividendTracker 1: 0x04974b1d189573113f1da25e0a4df9db2912edec 
+                       https://basescan.org/address/0x04974b1d189573113f1da25e0a4df9db2912edec 
+New DividendTracker 2: 0xa9d956d92432460a0fa8d2a27be33859830705ec 
+                       https://basescan.org/address/0xa9d956d92432460a0fa8d2a27be33859830705ec 
+
+
+Profit Share Contract: 0x748195e233532caa60fde7b048c7078bc8bc5c04
+                       https://basescan.org/address/0x748195e233532caa60fde7b048c7078bc8bc5c04
+
+---------------------------------------------------------------------------------------------
+
+LINEA MAINNET
+
+Deployer wallet address: 0xA312045f3a4AaB5536086137e024F156ADd3365B (Linea Meta Wallet)
+
+poolFactory: 0xa7a867e25ffe245199f7d274d9ab64cc824f0f95
+             https://lineascan.build/address/0xa7a867e25ffe245199f7d274d9ab64cc824f0f95
+poolManager: 0xd50eff7f022a73345392bf837a35554c18fbf322
+             https://lineascan.build/address/0xd50eff7f022a73345392bf837a35554c18fbf322
+multicallAddress: ?
+
+lockAddress: 0x945e689aa81e21a4a3591f1a65ba373a1e359caf
+             https://lineascan.build/address/0x945e689aa81e21a4a3591f1a65ba373a1e359caf
+
+feeReceiver: 0xCE035af21b4697101Aaf12C261bc6C79b0e38271 (defiDegens CB wallet)
+
+
+presalePool contract (_master on Write): 0xd70b2ac4a01e65f013848f57ffdbc22eb0d83031
+                     https://lineascan.build/address/0xd70b2ac4a01e65f013848f57ffdbc22eb0d83031
+fairPool contract (_fairmaster on Write): 0x4ca15292f078d53aa25d052f6d5d82074639e37a
+                     https://lineascan.build/address/0x4ca15292f078d53aa25d052f6d5d82074639e37a
+privatePool contract (_privatemaster on Write): 0xe7a9212d3ad903750306ca882adbe083faeefbda
+                     https://lineascan.build/address/0xe7a9212d3ad903750306ca882adbe083faeefbda
+
+
+New DividendTracker 1: 
+New DividendTracker 2: 
+
+
+Profit Share Contract: 
+
+
+---------------------------------------------------------------------------------------------
+
+zkSYNC TESTNET
+
+Router address: 0x5aEaF2883FBf30f3D62471154eDa3C0c1b05942d
+Router name: Pancakeswap v2 Router
+
+poolFactory: 0xF82212918E3C5C893a91CbdF4aB7fE032Fb2c762
+             https://sepolia.explorer.zksync.io/address/0xF82212918E3C5C893a91CbdF4aB7fE032Fb2c762#contract
+poolManager: 0x7C0D0C99c9d83aEB96e9c214b88BC04A7D8C00A3
+             https://sepolia.explorer.zksync.io/address/0x1386cEfb1929C89Ce2EAd097CB0A0e29c688496C#contract
+
+lockAddress: 0x9F5FC3Ab7D9F930d66519F4C7d5632202e5E655B
+             https://sepolia.explorer.zksync.io/address/0x9F5FC3Ab7D9F930d66519F4C7d5632202e5E655B
+
+
+presalePool: 0x450d9Ca4A146e3863C1E9233b5d5703CAA4C9A7A
+             https://sepolia.explorer.zksync.io/address/0x450d9Ca4A146e3863C1E9233b5d5703CAA4C9A7A#contract
+fairPool: 0x802ED10e76f6b41AAcef1F2730B27b2A9d05E42c
+          https://sepolia.explorer.zksync.io/address/0x802ED10e76f6b41AAcef1F2730B27b2A9d05E42c#contract
+privatePool: 0x0bCc2aB3691CaAEb7cca8f3B949DA806B4c028A2
+             https://sepolia.explorer.zksync.io/address/0x0bCc2aB3691CaAEb7cca8f3B949DA806B4c028A2#contract
+
+fee receiver: 0xA312045f3a4AaB5536086137e024F156ADd3365B (lin MM wallet)
+
+New DividendTracker 1: 
+New DividendTracker 2: 
+
+
+Profit Share Contract: 
+
+
+---------------------------------------------------------------------------------------------
